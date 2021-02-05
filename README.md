@@ -1,1 +1,2 @@
-# Plucking-mangoes-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
